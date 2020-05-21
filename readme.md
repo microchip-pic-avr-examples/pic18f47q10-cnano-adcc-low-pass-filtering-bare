@@ -48,7 +48,7 @@ The following configurations must be made for this project:
 <br><img src="images/prop.PNG" width="600">
 
 
-5. Run the code in debug mode: right click on the project and click *Debug*:
+5. Run the code in debug mode: right click on the project and click *Debug*.
 <br><img src="images/debug.PNG" width="600">
 
 
